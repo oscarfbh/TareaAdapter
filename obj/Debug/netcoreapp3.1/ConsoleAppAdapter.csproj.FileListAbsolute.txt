@@ -1,0 +1,11 @@
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\bin\Debug\netcoreapp3.1\ConsoleAppAdapter.exe
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\bin\Debug\netcoreapp3.1\ConsoleAppAdapter.deps.json
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\bin\Debug\netcoreapp3.1\ConsoleAppAdapter.runtimeconfig.json
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\bin\Debug\netcoreapp3.1\ConsoleAppAdapter.runtimeconfig.dev.json
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\bin\Debug\netcoreapp3.1\ConsoleAppAdapter.dll
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\bin\Debug\netcoreapp3.1\ConsoleAppAdapter.pdb
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.csprojAssemblyReference.cache
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.AssemblyInfoInputs.cache
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.AssemblyInfo.cs
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.dll
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.pdb
