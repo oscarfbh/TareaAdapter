@@ -9,3 +9,5 @@ C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppA
 C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.AssemblyInfo.cs
 C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.dll
 C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.pdb
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CursoBuenasPracticasBOT\ConsoleAppAdapter\obj\Debug\netcoreapp3.1\ConsoleAppAdapter.csproj.CopyComplete

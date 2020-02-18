@@ -1,4 +1,5 @@
 ﻿using ConsoleAppAdapter.Interfaces;
+using ConsoleAppAdapter.Servicios;
 using System;
 
 namespace ConsoleAppAdapter
@@ -7,11 +8,13 @@ namespace ConsoleAppAdapter
     {
         static void Main(string[] args)
         {
-            IDecimalToIntStringService service = new DecimalTotalToIntStringFormat();
-            IDecimalFromStringAdapter adapter = new IntegerPart(service);
-            double total = 123456.7890;
+            IListaSucursales sucursales = new ListaSucursales();
+            IListaSucursalesJsonAdapter adapter = new ListasSucursalesJson(sucursales);
+            
 
-            Console.WriteLine("El valor entero de {0} es : {1}", total, adapter.ObtainIntegerPart(total));
+            Console.WriteLine("\nImprimiendo el JSON mediante el adapter que lee la lista de entidades de la otra clase: \n");
+
+            Console.WriteLine(adapter.RegresarJsonSucursales());
         }
     }
 }
